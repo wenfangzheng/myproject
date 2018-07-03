@@ -1,3 +1,0 @@
-# myproject
-
-I like git
